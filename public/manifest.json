@@ -1,0 +1,20 @@
+{
+  "name": "Jenni Estética",
+  "short_name": "Jenni",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FDF2F0",
+  "theme_color": "#F9E8ED",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
